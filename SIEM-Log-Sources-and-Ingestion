@@ -1,0 +1,5 @@
+>>>>>>>>>>>> Log Sources and Log Ingestion >>>>>>>>>>>>>>.
+<<Log Souces>>
+Every network device generates some kind of log whenever an 
+activity is performed on it, such as a user visiting a website,
+connecting to SSH, logging into his workstation, and so on.
