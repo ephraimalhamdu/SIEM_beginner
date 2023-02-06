@@ -1,0 +1,47 @@
+>>>>>> SIEM >>>>>>>
+SIEM stands for Security Information Security and Event Management Systems
+
+WHAT IS IT?
+It is a type of software solution tool that collects, aggregates and analyzes security-related data from firewalls, intrusion detection systems, 
+server's logs, various devices and applications within an organization's network. 
+It gives the security team a centralised picture of an organization's security posture, allowing them to detect, 
+investigate, and respond to security risks/threats in real time.
+
+>>>>> COMPONENTS OF SIEM >>>>>
+
+** COLLECTION - SIEM collects log data from various sources such as firewalls, servers, endpoints 
+and databases.
+
+** CORRELATION - The collected data is analysed and correlated to identify potiential security threats.
+
+** ALERTING - If a potential threat is detected, the SIEM will generate an alert to notify the security team 
+
+** REPORTING - SIEM provides a centralized view of all security-related events and generates reports for 
+management, auditors, and regulatory compliance. 
+
+** RESPONSE - The security team can respond to security threats by taking appropriate actions suck as blocking 
+access, shutting dowm systems, or notifying law enforcement. 
+
+>>>>>>>>>> NETWORK LOG SOURCES >>>>>>>>>>>
+
+** HOST-CENTRIC LOG - log sources that captures events that occured within 
+or related to the host. Some network-centric log sources are; Windows Event Logs, Sysmon, Osquery etc.
+Examples of host-centric logs are:
++ a user acccessing file
++ user trying to authenticate 
++ process execution activity
++ process adding/editing/deleting a registry key or value
++ powershell execution 
+
+** NETWORK CENTRIC LOG - Network related logs are generated whenever the host
+communicate with each other or access the internet to visit a website. e.g
++ SSH connection
++ file accessed through FTP
++ web traffic 
++ accessing company resource using VPN
++ network file sharing 
+
+
+
+ 
+
